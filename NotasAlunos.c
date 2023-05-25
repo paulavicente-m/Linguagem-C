@@ -1,7 +1,7 @@
 /*
 
 Escreva um programa que peça ao usuário que digite 4 notas de 0 a 10 (tipo float) de 4 alunos e os valores deverão ser armazenados em uma matriz bidimensional. Faça a média das notas de cada aluno e armazene as 4 médias em um vetor. Por último, coloque na tela do usuário uma mensagem informando a média de cada aluno. 
-(Exercício retirado do canal "De aluno para aluno" 
+(Exercício retirado do canal "De aluno para aluno") 
 
 */
 
